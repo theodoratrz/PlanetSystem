@@ -137,7 +137,7 @@ for the stars. These shaders are essential for rendering and lighting in the Sol
 
     - Day/Night flag:
         planet:
-            Uniform flag distinguishing planets and their lightning.
+            Uniform flag distinguishing planets and their lightning. 
 
         textureSampler, darktextureSampler:
             Uniforms for texture samplers, used for day-night cycle control.

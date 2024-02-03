@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="assimp-vc143-mtd.dll" />
+    <None Include="ReadMe.md" />
     <None Include="res\shaders\fragmentShader.glsl" />
     <None Include="res\shaders\vertexShader.glsl" />
   </ItemGroup>

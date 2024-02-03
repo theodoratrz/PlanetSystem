@@ -41,6 +41,7 @@
     <None Include="assimp-vc143-mtd.dll" />
     <None Include="res\shaders\fragmentShader.glsl" />
     <None Include="res\shaders\vertexShader.glsl" />
+    <None Include="ReadMe.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Camera.h">

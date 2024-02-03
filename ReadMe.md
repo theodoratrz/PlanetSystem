@@ -2,6 +2,7 @@
 
 This project is a real-time solar system simulation using OpenGL and GLFW. It includes models for the sun, earth, and moon, along with textures 
 and shaders to create a visually appealing representation.
+![planet system](./pics/planet_system3.png)
 
 ## Features
 
@@ -59,6 +60,7 @@ The simulation incorporates a dynamic day-night cycle, which enhances realism by
     - The Earth is illuminated on the side facing the sun.
     - Daytime texture is applied to the illuminated side.
     - Nighttime texture is applied to the side in shadow.
+    ![earth night texture](./pics/planet_system2.png)
 
 3. Moon Illumination:
     - The moon's illumination is dependent on its position relative to the sun.
@@ -67,11 +69,13 @@ The simulation incorporates a dynamic day-night cycle, which enhances realism by
 #### Lighting Effects
 
 The simulation showcases dynamic lighting effects to simulate the transition from day to night and vice versa.
+![day-night lightning](./pics/planet_system4.png)
 
 #### Implementation Details
 
 The lighting effects are achieved through coordination of shaders and texture mapping.
 Shader logic determines the appearance of the Earth and Moon based on their orientation relative to the sun.
+![earth,moon lightning](./pics/planet_system1.png)
 
 #### Starfield Background:
 

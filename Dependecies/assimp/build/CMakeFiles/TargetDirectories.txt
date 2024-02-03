@@ -1,0 +1,13 @@
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/CMakeFiles/uninstall.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/CMakeFiles/INSTALL.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/code/CMakeFiles/assimp.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/code/CMakeFiles/INSTALL.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/test/CMakeFiles/unit.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/test/CMakeFiles/INSTALL.dir
+C:/Users/Dora/source/repos/PlanetSystem/Dependecies/assimp/build/test/headercheck/CMakeFiles/INSTALL.dir
